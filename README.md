@@ -4,19 +4,19 @@ This repository organises projects focused on vehicle dynamics in motorsport. Fr
 
 ## Projects
 
-### 1. [Longitudinal Dynamics Model](#)
+### 1. [Longitudinal Dynamics Model](https://github.com/RacingFormula/Longitudinal-Dynamics-Model)
 Simulates straight-line acceleration, braking, and drag effects on vehicle performance.
 
-### 2. [Lateral Dynamics Model](#)
+### 2. [Lateral Dynamics Model](https://github.com/RacingFormula/Lateral-Dynamics-Model)
 Models cornering dynamics, including stability, tyre grip, and lateral forces.
 
-### 3. [Suspension Performance Analyser](#)
+### 3. [Suspension Performance Analyser](https://github.com/RacingFormula/Suspension-Performance-Analyser)
 Analyses the impact of suspension setup on ride quality and handling characteristics.
 
-### 4. [Aerodynamic Efficiency Simulator](#)
+### 4. [Aerodynamic Efficiency Simulator](https://github.com/RacingFormula/Aerodynamic-Efficiency-Simulator)
 Explores the effects of drag and downforce on speed and lap times.
 
-### 5. [Tyre Energy Dissipation Model](#)
+### 5. [Tyre Energy Dissipation Model](https://github.com/RacingFormula/Tyre-Energy-Dissipation-Model)
 Simulates energy loss through rolling resistance, lateral forces, and tyre deformation.
 
 ## Usage
